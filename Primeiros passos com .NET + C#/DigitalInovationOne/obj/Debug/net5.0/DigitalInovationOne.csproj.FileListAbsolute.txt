@@ -1,0 +1,16 @@
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.exe
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.deps.json
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.json
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.dev.json
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.dll
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\ref\DigitalInovationOne.dll
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.pdb
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csprojAssemblyReference.cache
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfoInputs.cache
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfo.cs
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.dll
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\ref\DigitalInovationOne.dll
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.pdb
+E:\ADS\Digital Inovation One\Primeiros passos com .NET + C#\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.genruntimeconfig.cache
