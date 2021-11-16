@@ -1,0 +1,13 @@
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.exe
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.deps.json
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.runtimeconfig.json
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.runtimeconfig.dev.json
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.dll
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\bin\Debug\netcoreapp3.1\ExIntroducao.pdb
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.csprojAssemblyReference.cache
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.AssemblyInfoInputs.cache
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.AssemblyInfo.cs
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.csproj.CoreCompileInputs.cache
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.dll
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.pdb
+D:\ADS\Digital Inovation One\Introdução a Logica de Programação\ExIntroducao\ExIntroducao\obj\Debug\netcoreapp3.1\ExIntroducao.genruntimeconfig.cache

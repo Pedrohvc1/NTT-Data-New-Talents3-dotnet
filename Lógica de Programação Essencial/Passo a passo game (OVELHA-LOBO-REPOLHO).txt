@@ -1,0 +1,19 @@
+inico jogo
+Entrar com a ovelha no barco
+Atravessar barco
+Deixar ovelha
+Atravessar barco
+Entra com o repolho no barco
+Atravessar barco
+Deixar Repolho
+Entrar com a ovelha no barco
+Atravessar barco
+Deixar ovelha
+Entrar com o Lobo no barco
+Atravessar barco
+Deixar lobo
+Atravessar barco
+Entrar com a ovelha no barco
+Atravessar barco
+Deixar ovelha
+fim jogo

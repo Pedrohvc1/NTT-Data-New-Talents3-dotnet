@@ -1,0 +1,71 @@
+Acordo
+levanto da cama
+arrumo a cama
+vou até o banheiro
+escovo os dentes
+saio do banheiro
+vou para a cozinha
+preparo o café da manhã
+me alimento
+vou até o banheiro 
+escovo os dentes
+saio do banheiro
+vejo as atv domésticas do dia
+realizo as atividades
+vou até o banheiro
+tomo banho
+saio do banheiro
+vou p/ quarto de estudos
+ligo o computador
+começo a estudar até 11:30 da manhã
+11:30 da manhã saio do quarto de estudo
+vou até cozinha
+checo se tem almoço pronto
+se sim, esquento
+se não, preparo
+saio da cozinha
+vou até a mesa
+me alimento
+saio da mesa
+vou até o banheiro
+escovo os dentes
+saio do banheiro
+descanço até 13:30
+após descanço, vou para o quarto de estudos
+estudo até 16:40h
+saio do quarto de estudos
+vou p/ banheiro
+tomo banho
+saio banheiro
+vou quarto dormir
+abro guarda-roupas
+me visto
+saio casa
+vou academia
+saio academia 18:00
+volto casa
+entro banheiro
+tomo banho
+saio banheiro
+vou cozinha
+preparo jantar
+como jantar
+vou banheiro
+escovo os dentes
+saio banheiro
+vou quarto de estudos
+assisto aula faculdade 18:30 até 21:30
+após aula
+realizo atv até 22:30
+saio quarto estudos
+vou banheiro
+tomo banho
+saio banheiro
+se estiver com fome, vou cozinha preparo lanche, escovo os dentes
+se nao, vou para quarto dormir, relaxar
+fim dia
+
+
+
+
+
