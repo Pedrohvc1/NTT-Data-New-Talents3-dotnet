@@ -1,0 +1,11 @@
+using System; 
+ 
+class TESTE {
+ 
+    static void Main(string[] args) { 
+        long N = long.Parse(Console.ReadLine());
+        long resposta = (N * (N - 1)) / 2 - N;  //Digite sua lógica aqui
+        Console.WriteLine(resposta);
+    }
+    
+}
