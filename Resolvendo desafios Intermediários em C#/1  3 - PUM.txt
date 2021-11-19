@@ -1,0 +1,22 @@
+using System;
+
+namespace TESTE {
+    class Program {
+        static void Main(string[] args) {
+        
+            int N = int.Parse(Console.ReadLine());
+            int final = N * 4;
+
+            for (int i = 1; i <= final; i++)
+            {
+                if (i% 4 == 0)
+                {
+                    Console.WriteLine("PUM");
+                }
+                else
+                    Console.Write(i+ " ");
+            }
+
+        }
+    }
+}

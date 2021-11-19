@@ -1,0 +1,16 @@
+using System; 
+
+class Problem {
+
+    static void Main(string[] args) { 
+
+        string[] v = Console.ReadLine().Split(' ');
+        long N = long.Parse(v[0]);
+        long L = long.Parse(v[1]);
+        
+        long result = N * L;
+        Console.WriteLine(result);
+        //Insira o seu código aqui
+    }
+
+}
