@@ -1,0 +1,66 @@
+ => Apresentação do tema, da API e a organização das tabelas
+
+Resumo do projeto
+
+3 tabelas (
+	pilotos
+	Planetas
+	Naves
+)
+em 1 PLANETA tem n PILOTOS,
+1 PILOTO terá 1 PLANETA,
+1 PILOTO pode estar habilitado para n NAVES
+1 NAVE pode ser pilotada por n PILOTOS
+
+* porém para resolver o relacionamento entre PILOTOS E NAVES, vamos criar uma 4 tabela (Pilotos/Naves)
+
+
+
+=> Comando Create Table e criação da primeira tabela Planetas
+
+comando Go - significa final de uma instrução início de outra.
+
+
+
+=> Criação da tabela Naves e a Pilotos
+
+FOREING KEY  - nesse exemplo diz que: nessa tabela pilotos qual coluna(IdPlanetas) e essa coluna referencia o (nomeTabela) a coluna desejada.
+
+	Exemplo criado
+create table Pilotos(
+IdPiloto int not null,
+Nome varchar(200) not null,
+AnoNascimento varchar(10) not null,
+IdPlaneta int not null,
+)
+Go
+Alter table Planetas add constraint Pk_Piloto PRIMARY KEY (IdPiloto);
+GO
+alter table Pilotos add constraint FK_Pilotos_Planetas foreign key (IdPlaneta)
+references Planetas (IdPlaneta) 
+
+
+
+=> Criação da tabela PilotosNaves e finalizar implementação de foreing keys
+
+FlagAutorizado bit not null - bit representa um valor booleano
+
+IdPiloto e IdNave - duas chaves primarias, pois isso impede que 1 piloto esteja cadastrado para a mesma nave mais de uma vez e virce e versa.
+
+	exemplo do código utilizado
+create table PilotosNaves(
+	idPiloto int not null,
+	IdNave int not null,
+	FlagAutorizado bit not null,
+)
+go
+alter table PilotosNaves add constraint PK_PilotosNaves PRIMARY KEY (idPiloto, IdNave);
+
+go
+alter table PilotosNaves add constraint FK_PilotosNaves_Pilotos foreign key (IdPiloto) references Piloto(IdPiloto);
+
+go
+alter table PilotosNaves add constraint FK_PilotosNaves_Naves foreign key (IdNave) references Nave(IdNave);
+
+go
+alter table PilotosNaves add constraint DF_PilotosNaves_FlagAutorizado default (1) for FlagAutorizado;

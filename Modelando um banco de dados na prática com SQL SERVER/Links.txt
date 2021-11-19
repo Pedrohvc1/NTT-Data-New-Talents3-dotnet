@@ -1,0 +1,8 @@
+Link para clonar a aplicação:
+https://github.com/ThiagoAcam/ControleAcessoEstrelaDaMorte.git
+
+link da aula na DIO:
+https://web.dio.me/course/modelando-um-banco-de-dados-na-pratica-com-sql-server/learning/40a7856b-f67d-488c-ac13-57fcee02d2c6?back=/track/everis-new-talents-3-net
+
+link da API de Star Wars:
+https://swapi.dev/
